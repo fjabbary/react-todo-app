@@ -1,0 +1,17 @@
+li {
+    margin-bottom: 20px;
+    background: rgb(236, 147, 147);
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.done {
+    text-decoration: line-through;
+    color: #ccc;
+}
+
+.undone {
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,9 @@
+.app {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1);
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
