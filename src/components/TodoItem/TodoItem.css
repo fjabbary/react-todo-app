@@ -1,0 +1,20 @@
+li {
+    color: #000;
+    cursor: pointer;
+}
+
+i.fa-trash-alt {
+    color: red;
+    cursor: pointer;
+}
+
+i.fa-edit {
+    color: rgb(93, 93, 226);
+    cursor: pointer;
+}
+
+.done {
+    color: #aaa;
+    text-decoration: line-through;
+}
+
